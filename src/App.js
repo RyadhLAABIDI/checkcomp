@@ -1,8 +1,8 @@
 import React from "react";
 import './App.css';
-import Photo from "./Profil";
-import FullName from "./Profil";
-import Address from "./Profil";
+import Photo from "./Profil/Photo";
+import FullName from "./Profil/FullName";
+import Address from "./Profil/Address";
 
 const App = ()=> (
       <div className="App">
